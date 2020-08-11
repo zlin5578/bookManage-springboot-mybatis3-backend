@@ -6,7 +6,7 @@ You can git clone the project. Then use eclipse for J2EE to import the source co
 
 ### Clone Project
 ```
-git clone https://github.com/jamesliu668/springboot-mybatis-mysql-demo.git
+git clone https://github.com/zlin5578/bookManage-springboot-mybatis3-backend.git
 ```
 
 ### Create MYSQL
